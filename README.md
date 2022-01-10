@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Syndr Protocol https://github.com/0xSyndr
-- 🌱 I’m currently learning scaling solutions
-- 👯 I’m looking to collaborate on new primtives for DeFi Derivatives
+- 🌱 I’m currently learning ETH scaling solutions
+- 👯 I’m looking to collaborate on new primitives for DeFi Derivatives
 - 💬 Ask me about DeFi
 - 📫 How to reach me: https://twitter.com/madhur4444
 - ⚡ Fun fact: I am OctoApe
