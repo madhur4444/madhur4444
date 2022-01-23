@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Syndr Protocol https://github.com/0xSyndr
-- 🌱 I’m currently learning ETH scaling solutions
+- 🌱 I’m currently learning Cryptography, Yul and Rust.
 - 👯 I’m looking to collaborate on new primitives for DeFi Derivatives
 - 💬 Ask me about DeFi
 - 📫 How to reach me: https://twitter.com/madhur4444
